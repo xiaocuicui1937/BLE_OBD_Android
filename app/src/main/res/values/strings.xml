@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BLE_OBD</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ble_not_supported">BLE Not Supported</string>
+    <string name="launch_scan">连接设备</string>
+    <string name="equipment_empty">没有设备连接</string>
+    <string name="bt_write">发送</string>
+</resources>

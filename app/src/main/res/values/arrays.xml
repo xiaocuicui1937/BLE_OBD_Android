@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="order_type">
+        <item>查询VIN</item>
+        <item>恢复出厂设置</item>
+        <item>重启终端设备</item>
+    </string-array>
+</resources>
